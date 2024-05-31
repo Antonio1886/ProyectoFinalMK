@@ -31,7 +31,7 @@ date: "2024-02-22"
               <tr>
                 <td>Aliados</td>
                 <td>
-                <li> <a href="/Dvorah" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">D´Vorah </a></li>
+                <li> <a href="/DVorah" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">D´Vorah </a></li>
                 <li>Smoke</li>
                 <li>Quan Chi</li>
                 <li>Stryker</li>
